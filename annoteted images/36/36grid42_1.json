@@ -1,0 +1,193 @@
+{
+    "36grid42_1.jpg212068": {
+        "filename": "36grid42_1.jpg",
+        "size": 212068,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 21,
+                    "width": 149,
+                    "height": 411
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181,
+                    "y": 11,
+                    "width": 126,
+                    "height": 285
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 343,
+                    "y": 9,
+                    "width": 228,
+                    "height": 241
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 505,
+                    "y": 130,
+                    "width": 101,
+                    "height": 474
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 547,
+                    "y": 18,
+                    "width": 152,
+                    "height": 308
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 555,
+                    "y": 236,
+                    "width": 149,
+                    "height": 403
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 517,
+                    "y": 371,
+                    "width": 57,
+                    "height": 317
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 689,
+                    "y": 339,
+                    "width": 57,
+                    "height": 314
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 209,
+                    "y": 408,
+                    "width": 64,
+                    "height": 293
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 136,
+                    "y": 320,
+                    "width": 117,
+                    "height": 297
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

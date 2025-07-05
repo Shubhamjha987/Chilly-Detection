@@ -1,0 +1,49 @@
+{
+    "38grid30_1.jpg386858": {
+        "filename": "38grid30_1.jpg",
+        "size": 386858,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 410,
+                    "y": 322,
+                    "width": 230,
+                    "height": 570
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 891,
+                    "y": 572,
+                    "width": 88,
+                    "height": 395
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "35grid40_3.jpg205496": {
+        "filename": "35grid40_3.jpg",
+        "size": 205496,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 316,
+                    "width": 207,
+                    "height": 426
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 351,
+                    "y": 121,
+                    "width": 175,
+                    "height": 429
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

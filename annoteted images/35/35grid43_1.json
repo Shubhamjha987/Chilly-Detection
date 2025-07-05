@@ -1,0 +1,121 @@
+{
+    "35grid43_1.jpg202577": {
+        "filename": "35grid43_1.jpg",
+        "size": 202577,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 302,
+                    "y": 6,
+                    "width": 83,
+                    "height": 494
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 382,
+                    "y": 28,
+                    "width": 113,
+                    "height": 336
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 219,
+                    "width": 127,
+                    "height": 520
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 408,
+                    "y": 140,
+                    "width": 262,
+                    "height": 296
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 442,
+                    "y": 38,
+                    "width": 245,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 626,
+                    "y": 74,
+                    "width": 113,
+                    "height": 149
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

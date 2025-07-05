@@ -1,0 +1,31 @@
+{
+    "29grid30_2.jpg300877": {
+        "filename": "29grid30_2.jpg",
+        "size": 300877,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 622,
+                    "width": 309,
+                    "height": 296
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

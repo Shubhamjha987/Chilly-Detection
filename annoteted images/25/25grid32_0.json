@@ -1,0 +1,31 @@
+{
+    "25grid32_0.jpg251696": {
+        "filename": "25grid32_0.jpg",
+        "size": 251696,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 290,
+                    "y": 278,
+                    "width": 130,
+                    "height": 358
+                },
+                "region_attributes": {
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "name": "chilly"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

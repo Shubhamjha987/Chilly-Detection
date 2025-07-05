@@ -1,0 +1,85 @@
+{
+    "35grid31_1.jpg299586": {
+        "filename": "35grid31_1.jpg",
+        "size": 299586,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 280,
+                    "y": 39,
+                    "width": 417,
+                    "height": 442
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 440,
+                    "width": 100,
+                    "height": 460
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 256,
+                    "width": 141,
+                    "height": 427
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 554,
+                    "y": 27,
+                    "width": 65,
+                    "height": 489
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

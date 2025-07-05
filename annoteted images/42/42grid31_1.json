@@ -1,0 +1,49 @@
+{
+    "42grid31_1.jpg601676": {
+        "filename": "42grid31_1.jpg",
+        "size": 601676,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 464,
+                    "y": 152,
+                    "width": 45,
+                    "height": 86
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 498,
+                    "y": 140,
+                    "width": 33,
+                    "height": 79
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

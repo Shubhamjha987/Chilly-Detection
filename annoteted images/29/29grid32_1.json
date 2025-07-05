@@ -1,0 +1,49 @@
+{
+    "29grid32_1.jpg280052": {
+        "filename": "29grid32_1.jpg",
+        "size": 280052,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 665,
+                    "y": 86,
+                    "width": 125,
+                    "height": 549
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 594,
+                    "width": 138,
+                    "height": 387
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

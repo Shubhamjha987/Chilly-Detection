@@ -1,0 +1,31 @@
+{
+    "39grid32_1.jpg343751": {
+        "filename": "39grid32_1.jpg",
+        "size": 343751,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 671,
+                    "y": 55,
+                    "width": 139,
+                    "height": 420
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

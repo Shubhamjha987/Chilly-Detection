@@ -1,0 +1,67 @@
+{
+    "35grid21_1.jpg647169": {
+        "filename": "35grid21_1.jpg",
+        "size": 647169,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 371,
+                    "y": 610,
+                    "width": 224,
+                    "height": 819
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 423,
+                    "y": 313,
+                    "width": 454,
+                    "height": 896
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 951,
+                    "y": 141,
+                    "width": 414,
+                    "height": 690
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

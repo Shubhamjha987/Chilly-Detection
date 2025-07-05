@@ -1,0 +1,85 @@
+{
+    "44grid31_0.jpg349906": {
+        "filename": "44grid31_0.jpg",
+        "size": 349906,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 4,
+                    "width": 125,
+                    "height": 164
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 280,
+                    "y": 4,
+                    "width": 114,
+                    "height": 219
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 806,
+                    "y": 45,
+                    "width": 174,
+                    "height": 399
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 846,
+                    "y": 254,
+                    "width": 121,
+                    "height": 303
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

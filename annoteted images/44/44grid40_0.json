@@ -1,0 +1,121 @@
+{
+    "44grid40_0.jpg228622": {
+        "filename": "44grid40_0.jpg",
+        "size": 228622,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 238,
+                    "y": 528,
+                    "width": 115,
+                    "height": 212
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 282,
+                    "width": 101,
+                    "height": 469
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 314,
+                    "y": 340,
+                    "width": 282,
+                    "height": 396
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 597,
+                    "y": 592,
+                    "width": 141,
+                    "height": 140
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 639,
+                    "y": 112,
+                    "width": 104,
+                    "height": 528
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 555,
+                    "y": 100,
+                    "width": 187,
+                    "height": 413
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

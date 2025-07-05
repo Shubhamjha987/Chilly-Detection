@@ -1,0 +1,49 @@
+{
+    "38grid32_1.jpg355970": {
+        "filename": "38grid32_1.jpg",
+        "size": 355970,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 718,
+                    "y": 143,
+                    "width": 166,
+                    "height": 427
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 656,
+                    "y": 307,
+                    "width": 98,
+                    "height": 341
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "43grid32_2.jpg364491": {
+        "filename": "43grid32_2.jpg",
+        "size": 364491,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 570,
+                    "y": 380,
+                    "width": 219,
+                    "height": 323
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

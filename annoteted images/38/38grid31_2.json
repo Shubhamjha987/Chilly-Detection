@@ -1,0 +1,67 @@
+{
+    "38grid31_2.jpg405706": {
+        "filename": "38grid31_2.jpg",
+        "size": 405706,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 691,
+                    "y": 650,
+                    "width": 272,
+                    "height": 70
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 779,
+                    "y": 511,
+                    "width": 196,
+                    "height": 82
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 824,
+                    "y": 912,
+                    "width": 172,
+                    "height": 86
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

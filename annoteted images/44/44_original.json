@@ -1,0 +1,391 @@
+{
+    "44_original.jpg3424208": {
+        "filename": "44_original.jpg",
+        "size": 3424208,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 814,
+                    "width": 149,
+                    "height": 360
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 519,
+                    "width": 47,
+                    "height": 468
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 376,
+                    "y": 350,
+                    "width": 233,
+                    "height": 460
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 327,
+                    "y": 82,
+                    "width": 613,
+                    "height": 155
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 254,
+                    "width": 166,
+                    "height": 523
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 221,
+                    "y": 593,
+                    "width": 176,
+                    "height": 401
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 292,
+                    "y": 902,
+                    "width": 74,
+                    "height": 317
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 595,
+                    "y": 575,
+                    "width": 282,
+                    "height": 333
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 632,
+                    "y": 92,
+                    "width": 121,
+                    "height": 583
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 554,
+                    "y": 241,
+                    "width": 303,
+                    "height": 339
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 789,
+                    "y": 184,
+                    "width": 135,
+                    "height": 227
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1224,
+                    "y": 108,
+                    "width": 299,
+                    "height": 634
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1444,
+                    "y": 593,
+                    "width": 145,
+                    "height": 268
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1417,
+                    "y": 658,
+                    "width": 82,
+                    "height": 245
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1736,
+                    "y": 505,
+                    "width": 139,
+                    "height": 407
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1634,
+                    "y": 460,
+                    "width": 123,
+                    "height": 190
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 801,
+                    "y": 990,
+                    "width": 215,
+                    "height": 487
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 810,
+                    "y": 1217,
+                    "width": 184,
+                    "height": 352
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1118,
+                    "y": 1202,
+                    "width": 186,
+                    "height": 296
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 609,
+                    "y": 781,
+                    "width": 94,
+                    "height": 280
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2648,
+                    "y": 2139,
+                    "width": 213,
+                    "height": 450
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

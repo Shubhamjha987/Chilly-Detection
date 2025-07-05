@@ -1,0 +1,31 @@
+{
+    "44grid31_1.jpg411904": {
+        "filename": "44grid31_1.jpg",
+        "size": 411904,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 125,
+                    "y": 151,
+                    "width": 227,
+                    "height": 299
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

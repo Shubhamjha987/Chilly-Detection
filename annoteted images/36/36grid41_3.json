@@ -1,0 +1,49 @@
+{
+    "36grid41_3.jpg234807": {
+        "filename": "36grid41_3.jpg",
+        "size": 234807,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 138,
+                    "width": 132,
+                    "height": 340
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 558,
+                    "y": 465,
+                    "width": 173,
+                    "height": 233
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

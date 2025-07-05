@@ -1,0 +1,31 @@
+{
+    "26grid41_0.jpg228676": {
+        "filename": "26grid41_0.jpg",
+        "size": 228676,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 217,
+                    "y": 531,
+                    "width": 280,
+                    "height": 173
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

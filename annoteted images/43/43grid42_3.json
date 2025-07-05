@@ -1,0 +1,31 @@
+{
+    "43grid42_3.jpg204122": {
+        "filename": "43grid42_3.jpg",
+        "size": 204122,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 143,
+                    "y": 475,
+                    "width": 193,
+                    "height": 221
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

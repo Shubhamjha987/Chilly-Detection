@@ -1,0 +1,31 @@
+{
+    "25grid21_0.jpg641466": {
+        "filename": "25grid21_0.jpg",
+        "size": 641466,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 267,
+                    "y": 720,
+                    "width": 161,
+                    "height": 424
+                },
+                "region_attributes": {
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "name": "chilly"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

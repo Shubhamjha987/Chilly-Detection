@@ -1,0 +1,31 @@
+{
+    "39grid42_2.jpg280511": {
+        "filename": "39grid42_2.jpg",
+        "size": 280511,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 570,
+                    "width": 108,
+                    "height": 176
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

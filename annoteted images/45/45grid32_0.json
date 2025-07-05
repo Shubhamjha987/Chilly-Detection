@@ -1,0 +1,31 @@
+{
+    "45grid32_0.jpg259685": {
+        "filename": "45grid32_0.jpg",
+        "size": 259685,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 665,
+                    "y": 303,
+                    "width": 308,
+                    "height": 619
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

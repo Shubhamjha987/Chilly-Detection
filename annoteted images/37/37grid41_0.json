@@ -1,0 +1,49 @@
+{
+    "37grid41_0.jpg170438": {
+        "filename": "37grid41_0.jpg",
+        "size": 170438,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 376,
+                    "y": 213,
+                    "width": 342,
+                    "height": 529
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 526,
+                    "y": 366,
+                    "width": 147,
+                    "height": 291
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

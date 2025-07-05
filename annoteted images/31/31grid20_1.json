@@ -1,0 +1,49 @@
+{
+    "31grid20_1.jpg920447": {
+        "filename": "31grid20_1.jpg",
+        "size": 920447,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 632,
+                    "y": 1028,
+                    "width": 274,
+                    "height": 247
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 885,
+                    "y": 1039,
+                    "width": 119,
+                    "height": 278
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

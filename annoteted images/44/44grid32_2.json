@@ -1,0 +1,49 @@
+{
+    "44grid32_2.jpg330695": {
+        "filename": "44grid32_2.jpg",
+        "size": 330695,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 266,
+                    "y": 630,
+                    "width": 141,
+                    "height": 352
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 609,
+                    "y": 145,
+                    "width": 256,
+                    "height": 677
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

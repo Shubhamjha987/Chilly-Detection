@@ -1,0 +1,31 @@
+{
+    "43grid43_3.jpg215942": {
+        "filename": "43grid43_3.jpg",
+        "size": 215942,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 336,
+                    "y": 117,
+                    "width": 182,
+                    "height": 356
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

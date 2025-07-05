@@ -1,0 +1,31 @@
+{
+    "38grid32_2.jpg321335": {
+        "filename": "38grid32_2.jpg",
+        "size": 321335,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 709,
+                    "y": 10,
+                    "width": 278,
+                    "height": 131
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

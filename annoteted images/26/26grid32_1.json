@@ -1,0 +1,49 @@
+{
+    "26grid32_1.jpg330811": {
+        "filename": "26grid32_1.jpg",
+        "size": 330811,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 677,
+                    "y": 14,
+                    "width": 79,
+                    "height": 138
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 773,
+                    "y": 22,
+                    "width": 146,
+                    "height": 188
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

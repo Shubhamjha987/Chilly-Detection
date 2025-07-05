@@ -1,0 +1,31 @@
+{
+    "46grid31_2.jpg320155": {
+        "filename": "46grid31_2.jpg",
+        "size": 320155,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 192,
+                    "width": 180,
+                    "height": 285
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

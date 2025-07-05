@@ -1,0 +1,31 @@
+{
+    "35grid40_2.jpg159270": {
+        "filename": "35grid40_2.jpg",
+        "size": 159270,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 503,
+                    "y": 133,
+                    "width": 118,
+                    "height": 569
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

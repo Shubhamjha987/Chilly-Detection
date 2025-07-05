@@ -1,0 +1,31 @@
+{
+    "45grid42_2.jpg163039": {
+        "filename": "45grid42_2.jpg",
+        "size": 163039,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 12,
+                    "width": 168,
+                    "height": 519
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

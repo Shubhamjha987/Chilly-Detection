@@ -1,0 +1,31 @@
+{
+    "28grid32_1.jpg328405": {
+        "filename": "28grid32_1.jpg",
+        "size": 328405,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 382,
+                    "y": 140,
+                    "width": 118,
+                    "height": 470
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

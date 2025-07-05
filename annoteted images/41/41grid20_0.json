@@ -1,0 +1,31 @@
+{
+    "41grid20_0.jpg978531": {
+        "filename": "41grid20_0.jpg",
+        "size": 978531,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 351,
+                    "y": 1082,
+                    "width": 130,
+                    "height": 190
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

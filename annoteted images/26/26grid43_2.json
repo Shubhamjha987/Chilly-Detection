@@ -1,0 +1,31 @@
+{
+    "26grid43_2.jpg203379": {
+        "filename": "26grid43_2.jpg",
+        "size": 203379,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 612,
+                    "y": 51,
+                    "width": 112,
+                    "height": 417
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "35grid40_0.jpg166010": {
+        "filename": "35grid40_0.jpg",
+        "size": 166010,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 303,
+                    "y": 74,
+                    "width": 317,
+                    "height": 656
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 590,
+                    "y": 25,
+                    "width": 150,
+                    "height": 288
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 209,
+                    "width": 58,
+                    "height": 531
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

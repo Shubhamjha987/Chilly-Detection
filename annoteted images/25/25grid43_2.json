@@ -1,0 +1,31 @@
+{
+    "25grid43_2.jpg179943": {
+        "filename": "25grid43_2.jpg",
+        "size": 179943,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 558,
+                    "y": 75,
+                    "width": 111,
+                    "height": 394
+                },
+                "region_attributes": {
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "name": "chilly"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

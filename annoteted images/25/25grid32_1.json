@@ -1,0 +1,49 @@
+{
+    "25grid32_1.jpg301642": {
+        "filename": "25grid32_1.jpg",
+        "size": 301642,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 640,
+                    "y": 6,
+                    "width": 57,
+                    "height": 161
+                },
+                "region_attributes": {
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "name": "chilly"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 717,
+                    "y": 12,
+                    "width": 144,
+                    "height": 202
+                },
+                "region_attributes": {
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "name": "chilly"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

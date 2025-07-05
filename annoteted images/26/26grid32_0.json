@@ -1,0 +1,31 @@
+{
+    "26grid32_0.jpg291792": {
+        "filename": "26grid32_0.jpg",
+        "size": 291792,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 304,
+                    "y": 245,
+                    "width": 131,
+                    "height": 458
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

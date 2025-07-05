@@ -1,0 +1,31 @@
+{
+    "33grid32_0.jpg341469": {
+        "filename": "33grid32_0.jpg",
+        "size": 341469,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 771,
+                    "y": 307,
+                    "width": 104,
+                    "height": 331
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}

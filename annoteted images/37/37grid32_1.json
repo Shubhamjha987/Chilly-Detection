@@ -1,0 +1,31 @@
+{
+    "37grid32_1.jpg275484": {
+        "filename": "37grid32_1.jpg",
+        "size": 275484,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 538,
+                    "y": 309,
+                    "width": 172,
+                    "height": 548
+                },
+                "region_attributes": {
+                    "name": "chilly",
+                    "type": "chilly",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}
